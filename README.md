@@ -1,6 +1,6 @@
 # FruitMarketAppTest
-#Installation
-Clone this repository
+
+
 cd client
 npm install
 npm start
