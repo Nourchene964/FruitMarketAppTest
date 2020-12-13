@@ -1,10 +1,10 @@
 # FruitMarketAppTest
 
 
-cd client
+```bash
+cd server # installs backend node modules
 npm install
-npm start
-cd server
-npm install
-npm start
+cd client # switch to frontend client directory
+npm install # installs frontend node modules
+
 
