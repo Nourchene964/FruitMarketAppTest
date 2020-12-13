@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dbMarketplace:fruit@fruitmarket.tjknz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "DropLostToken"
+}
